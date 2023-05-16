@@ -1,5 +1,5 @@
 # Chain-smoker Problem
-This is an implementation of the Operating system classical synchronization problem using semaphores(with system call)
+This is an implementation of the Operating system classical synchronization problem using semaphores(with system call).
 ## Problem Description
 The Chain-smokers Problem is a classic synchronization problem in computer science. It involves three smokers and an agent who supplies the ingredients for making cigarettes. Each smoker has one of the three ingredients required to make a cigarette, and they must collaborate to make cigarettes and smoke them.
 
