@@ -31,6 +31,8 @@ After compilation, execute the program using the following command:
 ## Output
 The program will output the actions performed by the agent and the smokers. It will show the ingredients placed on the table by the agent and which smoker is smoking at a given time. Additionally, it will display when each smoker releases their ingredients.
 
+![Picture1](https://github.com/MuneerRaza/Chainsmoker-problem/assets/107882873/d0b69cc1-5dff-4da9-afe6-5fb1eec20ffe)
+
 ## Author
 * Muneer Raza (21k-3084)
 * Zainab Irshad (21k-4739)
