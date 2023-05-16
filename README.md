@@ -11,6 +11,15 @@ The three ingredients are:
 
 The agent repeatedly chooses two random ingredients and places them on the table. The smoker who has the remaining ingredient should pick up the ingredients from the table, make a cigarette, and smoke it. This process continues indefinitely.
 
+## Objectives
+The objectives of the "cigarette smoker problem" in operating systems typically revolve around synchronization and resource management. This problem is a classic concurrency issue that highlights the challenges of coordinating multiple processes or threads accessing shared resources. The specific objectives include:
+
+* Mutual Exclusion: Ensuring that only one smoker (process/thread) at a time can access the shared resources required to roll a cigarette.
+* Deadlock Avoidance: Preventing a situation where all smokers are waiting indefinitely for resources, leading to a deadlock. This requires proper resource allocation and release mechanisms.
+* Efficiency: Optimizing the utilization of resources and minimizing unnecessary waiting or resource contention among smokers.
+
+By achieving these objectives, the cigarette smoker problem aims to demonstrate effective synchronization techniques and resource allocation strategies in operating systems.
+
 ## Requirements
 To compile and run this program, you need to have the following:
 
